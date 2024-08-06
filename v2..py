@@ -156,3 +156,8 @@ class AIAssistant:
 if __name__ == "__main__":
     assistant = AIAssistant()
     assistant.run()
+
+'''
+sudo apt-get install python3-rpi.gpio
+pip install RPi.GPIO
+'''
